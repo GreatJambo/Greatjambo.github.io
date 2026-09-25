@@ -17,4 +17,4 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I'm Chengbo Zhan. Welcome to my personal website.
 
-You can find my professional background on [LinkedIn](https://www.linkedin.com/in/chengbo-zhan/), or reach me by [email](mailto:chamberlainzhan@gmail.com).
+You can find my professional background on [LinkedIn](https://www.linkedin.com/in/chengbo-zhan/).
